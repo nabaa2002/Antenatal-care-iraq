@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antenatal Care in Iraq</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Antenatal Care in Iraq</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="antenatal.html">Antenatal Care</a></li>
+                <li><a href="postnatal.html">Postnatal Care</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Ensuring Healthy Pregnancies for Women in Iraq</h2>
+        <p>Providing essential guidelines for maternal health and well-being.</p>
+        <a href="antenatal.html" class="btn">Learn More</a>
+    </section>
+
+    <section class="content">
+        <h2>Why Antenatal Care is Important?</h2>
+        <p>Antenatal care ensures the health of both mother and baby, offering necessary checkups, screenings, and guidance.</p>
+        <img src="https://www.example.com/antenatal-care.jpg" alt="Antenatal Care Image">
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Antenatal Care in Iraq. All rights reserved.</p>
+    </footer>
+</body>
+</html>

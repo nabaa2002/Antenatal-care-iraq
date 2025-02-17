@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antenatal Care</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Antenatal Care in Iraq</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="antenatal.html">Antenatal Care</a></li>
+                <li><a href="postnatal.html">Postnatal Care</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="content">
+        <h2>Antenatal Care Guidelines</h2>
+        <p>According to the World Health Organization, antenatal care includes assessments, disease screenings, and preventive measures to ensure maternal and fetal health.</p>
+
+        <h3>Key Aspects of Antenatal Care:</h3>
+        <ul>
+            <li>Assessment of pregnancy status</li>
+            <li>Screening for diseases such as anemia, hypertension, and diabetes</li>
+            <li>Preventive measures like vaccinations and nutritional supplements</li>
+            <li>Education and counseling on birth preparedness</li>
+        </ul>
+
+        <img src="https://www.example.com/pregnant-woman.jpg" alt="Pregnant Woman Receiving Care">
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Antenatal Care in Iraq. All rights reserved.</p>
+    </footer>
+</body>
+</html>
